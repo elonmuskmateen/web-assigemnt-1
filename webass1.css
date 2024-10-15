@@ -1,0 +1,45 @@
+
+header {
+    background-color: #5f7760;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-style: solid;
+    border-color: white;
+}
+.menu
+{
+    height: 50px;
+    background-color: #3b4b3c;
+    border-style: solid;
+    border-color: white;
+    text-align: center;    
+}
+
+li
+{
+    display: inline;
+
+}
+li a
+{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.content
+{
+    background-color: #5f7760;
+    height: 300px;
+    border-style: solid;
+    border-color: white;
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
